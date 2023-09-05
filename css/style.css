@@ -1,0 +1,36 @@
+body {
+	background-color: #eee;
+}
+
+.container {
+	max-width: 80%;
+	margin: 0 auto;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.list-style-none {
+	list-style: none;
+}
+
+.pl-0 {
+	padding-left: 0;
+}
+
+h1,
+h2,
+h3 {
+	color: #eb2f06;
+}
+
+.recipe-main-img-container {
+	max-width: 350px;
+	margin: 0 auto;
+}
+
+.recipe-main-img {
+	max-width: 100%;
+	height: auto;
+}
